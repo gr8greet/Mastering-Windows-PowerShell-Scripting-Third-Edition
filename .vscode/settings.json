@@ -1,0 +1,5 @@
+{
+    "powershell.codeFormatting.autoCorrectAliases": true,
+    "powershell.codeFormatting.useCorrectCasing": true,
+    "files.autoSave": "afterDelay"
+}
